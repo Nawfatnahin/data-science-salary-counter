@@ -1,0 +1,12 @@
+# Temporary Excel files
+~$*.xlsx
+~$*.xls
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary or cache files
+*.tmp
+.vscode/
